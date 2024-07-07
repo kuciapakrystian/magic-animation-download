@@ -1,7 +1,7 @@
 ﻿## Magic animation 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/kuciapakrystian/magic-animation-donload)](https://github.com/kuciapakrystian/magic-animation-download/commits/main/)
+[![GitHub last commit](https://img.shields.io/github/last-commit/kuciapakrystian/magic-animation-download)](https://github.com/kuciapakrystian/magic-animation-download/commits/main/)
 
 ## Specifications:
 I wanted to make something impressive  based only on html and sass
